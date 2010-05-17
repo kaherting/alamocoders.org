@@ -1,0 +1,1 @@
+Meeting.current_meeting
